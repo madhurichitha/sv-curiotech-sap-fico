@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Note: Draft blog articles are marked as unpublished pending owner review.
+# Once deployed under https://www.svcuriotech.com/sap-fico-training-in-hyderabad/,
+# merge or reference this sitemap from the root domain sitemap as needed.
+Sitemap: https://www.svcuriotech.com/sap-fico-training-in-hyderabad/sitemap.xml
